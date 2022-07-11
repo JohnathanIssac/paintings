@@ -1,0 +1,22 @@
+#box{
+    margin-left:35%;
+    width: 350px;
+    height: 350px;
+    border-style:double;
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+#title{
+    height: 100;
+    text-align: center;
+}
+#image{
+    width:350px;
+    height:350px;
+}
+#buttons{
+    margin-top: 30px;
+    text-align: center;
+}
